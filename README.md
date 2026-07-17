@@ -32,24 +32,26 @@
 
 ## 👋 About Me
 
-<img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag1772004&theme=tokyonight" alt="profile summary" />
-
 ```yaml
-name:        Anurag Chatterjee
-role:        Electronics & Instrumentation Engineering @ VIT
-location:    Bangalore, India
-focus:       AI / ML applied to Instrumentation
-building:    local-first LLM applications
-learning:    RAG, applied ML, Python tooling
+name:         Anurag Chatterjee
+role:         Electronics & Instrumentation Engineering @ VIT
+location:     Bangalore, India
+focus:        AI / ML applied to Instrumentation
+building:     local-first LLM applications
+learning:     RAG, applied ML, Python tooling
 ask me about: AI automation, embedded ML, sensors & signals
 ```
 
 - 🎓 Engineering student blending **hardware instrumentation** with **modern AI**
-- 🤖 I like building tools that **run on your own machine** — no API keys, no data leaving the device
+- 🤖 I build tools that **run on your own machine** — no API keys, no data leaving the device
 - 🛰️ Comfortable across the stack: sensors → signals → data → models → UI
-- 🌱 Currently going deeper into **Retrieval-Augmented Generation** and **applied ML**
+- 🌱 Going deeper into **Retrieval-Augmented Generation** and **applied ML**
 
-<br clear="right"/>
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag1772004&theme=tokyonight" alt="profile summary" />
+
+</div>
 
 ---
 
@@ -84,7 +86,7 @@ ask me about: AI automation, embedded ML, sensors & signals
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
-<br clear="right"/>
+
 ## 📌 Featured Project
 
 <table>
@@ -116,15 +118,16 @@ A **local-first assistant** that reads a Request-for-Proposal (PDF / text / emai
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anurag1772004&theme=tokyonight" alt="stats card" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anurag1772004&theme=tokyonight&utcOffset=5" alt="productive time" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag1772004&theme=tokyonight" alt="repos per language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag1772004&theme=tokyonight" alt="most commit language" width="49%" />
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anurag1772004&theme=tokyonight" alt="stats card" /></td>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anurag1772004&theme=tokyonight&utcOffset=5" alt="productive time" /></td>
+</tr>
+<tr>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag1772004&theme=tokyonight" alt="repos per language" /></td>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag1772004&theme=tokyonight" alt="most commit language" /></td>
+</tr>
+</table>
 
 ### 📈 Contribution Activity
 
