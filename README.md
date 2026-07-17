@@ -84,7 +84,7 @@ ask me about: AI automation, embedded ML, sensors & signals
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
-
+<br clear="right"/>
 ## 📌 Featured Project
 
 <table>
