@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anurag%20Chatterjee&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20%C2%B7%20ML%20%C2%B7%20Instrumentation&descSize=20&descAlignY=60" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anurag%20Chatterjee&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
 
-<a href="https://github.com/anurag1772004"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5DADE2&center=true&vCenter=true&width=650&lines=Electronics+%26+Instrumentation+%40+VIT;Leveraging+AI%2FML+with+Instrumentation;Building+local-first+LLM+applications;Turning+hardware+data+into+intelligent+systems" alt="typing SVG" /></a>
+<a href="https://github.com/anurag1772004"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5DADE2&center=true&vCenter=true&width=650&lines=AI+%26+ML+Developer;Building+local-first+LLM+applications;Turning+data+into+intelligent+systems" alt="typing SVG" /></a>
 
 <br/>
 
@@ -34,17 +34,17 @@
 
 ```yaml
 name:         Anurag Chatterjee
-role:         Electronics & Instrumentation Engineering @ VIT
+role:         AI / ML Developer
 location:     Bangalore, India
-focus:        AI / ML applied to Instrumentation
+focus:        local-first AI applications
 building:     local-first LLM applications
 learning:     RAG, applied ML, Python tooling
-ask me about: AI automation, embedded ML, sensors & signals
+ask me about: AI automation, applied ML, Python
 ```
 
-- 🎓 Engineering student blending **hardware instrumentation** with **modern AI**
 - 🤖 I build tools that **run on your own machine** — no API keys, no data leaving the device
-- 🛰️ Comfortable across the stack: sensors → signals → data → models → UI
+- 🛰️ Comfortable across the stack: **data → models → UI**
+- 🧠 Focused on **applied ML** and practical AI automation
 - 🌱 Going deeper into **Retrieval-Augmented Generation** and **applied ML**
 
 <div align="center">
@@ -153,7 +153,7 @@ A **local-first assistant** that reads a Request-for-Proposal (PDF / text / emai
 
 - 🔭 Working on **local-first LLM tooling** (see RFP Copilot)
 - 🌱 Learning **RAG pipelines** and **applied ML for sensor data**
-- 👯 Open to collaborating on **AI + instrumentation** projects
+- 👯 Open to collaborating on **AI / ML** projects
 - 🎯 2026 goal: ship an end-to-end **embedded-ML** demo
 
 ---
